@@ -5,4 +5,5 @@ def fizzbuzz(value)
     return "Fizz"
   elsif (value / 5).is_an_int
     return "Buzz"
+  end
 end
